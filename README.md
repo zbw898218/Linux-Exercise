@@ -1,2 +1,3 @@
 # Linux-Exercise
-this is another repository
+Hi Humans:
+zbw here! I like linux,python .
